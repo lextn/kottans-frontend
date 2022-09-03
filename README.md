@@ -67,3 +67,41 @@
 ![Screenshot image](task_linux_cli/linuxsurvival--module-4.png)
 
 </details>
+
+
+
+## 2. Git Collaboration
+
+[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+
+<details>
+<summary>Week 3</summary>
+
+![Screenshot image](task_git_collaboration/introduction-to-git-and-github--week-3.png)
+
+</details>
+
+<details>
+<summary>Week 4</summary>
+
+![Screenshot image](task_git_collaboration/introduction-to-git-and-github--week-4.png)
+
+</details>
+
+>
+
+[Learn Git Branching](https://learngitbranching.js.org/)
+
+<details>
+<summary>Moving Work Around</summary>
+
+![Screenshot image](task_git_collaboration/learn-git-branching--moving-work-around.png)
+
+</details>
+
+<details>
+<summary>To Origin And Beyond -- Advanced Git Remotes!</summary>
+
+![Screenshot image](task_git_collaboration/learn-git-branching--to-origin-and-beyond-and-advanced-git-remotes.png)
+
+</details>
