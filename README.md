@@ -105,3 +105,23 @@
 ![Screenshot image](task_git_collaboration/learn-git-branching--to-origin-and-beyond-and-advanced-git-remotes.png)
 
 </details>
+
+
+
+## 3. Intro to HTML and CSS
+
+[HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+<details>
+<summary>Week 1</summary>
+
+![Screenshot image](task_html_css_intro/html-css-javascript-for-web-developers--week-1.png)
+
+</details>
+
+<details>
+<summary>Week 2</summary>
+
+![Screenshot image](task_html_css_intro/html-css-javascript-for-web-developers--week-2.png)
+
+</details>
