@@ -125,3 +125,14 @@
 ![Screenshot image](task_html_css_intro/html-css-javascript-for-web-developers--week-2.png)
 
 </details>
+
+>
+
+[Learn HTML](https://www.codecademy.com/learn/learn-html)
+
+<details>
+<summary>Learn HTML</summary>
+
+![Screenshot image](task_html_css_intro/learn-html.png)
+
+</details>
