@@ -136,3 +136,14 @@
 ![Screenshot image](task_html_css_intro/learn-html.png)
 
 </details>
+
+>
+
+[Learn CSS](https://www.codecademy.com/learn/learn-css)
+
+<details>
+<summary>Learn CSS</summary>
+
+![Screenshot image](task_html_css_intro/learn-css.png)
+
+</details>
