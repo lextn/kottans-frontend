@@ -147,3 +147,16 @@
 ![Screenshot image](task_html_css_intro/learn-css.png)
 
 </details>
+
+
+
+## 4. Responsive Web Design
+
+[Flexbox Froggy](http://flexboxfroggy.com/)
+
+<details>
+<summary>Flexbox Froggy</summary>
+
+![Screenshot image](task_responsive_web_design/flexboxfroggy.png)
+
+</details>
