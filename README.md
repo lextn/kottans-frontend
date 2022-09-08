@@ -160,3 +160,14 @@
 ![Screenshot image](task_responsive_web_design/flexboxfroggy.png)
 
 </details>
+
+>
+
+[Grid Garden](http://cssgridgarden.com/)
+
+<details>
+<summary>Grid Garden</summary>
+
+![Screenshot image](task_responsive_web_design/cssgridgarden.png)
+
+</details>
